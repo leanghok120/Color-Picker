@@ -1,0 +1,48 @@
+.button-red {
+  background-color: red;
+  color: white;
+  font-family: Arial;
+  border: none;
+  font-size: 20px;
+}
+
+.button-green {
+  background-color: green;
+  color: white;
+  font-family: Arial;
+  border: none;
+  font-size: 20px;
+}
+
+.button-blue {
+  background-color: blue;
+  color: white;
+  font-family: Arial;
+  border: none;
+  font-size: 20px;
+}
+
+.button-yellow {
+  background-color: yellow;
+  color: black;
+  font-family: Arial;
+  border: none;
+  font-size: 20px;
+}
+
+.button-orange {
+  background-color: orange;
+  color: white;
+  font-family: Arial;
+  border: none;
+  font-size: 20px;
+}
+
+/* Hover effect */
+.button-red:hover,
+.button-green:hover,
+.button-blue:hover,
+.button-yellow:hover,
+.button-orange:hover {
+  opacity: 0.7; /* Change the opacity to your liking */
+}
